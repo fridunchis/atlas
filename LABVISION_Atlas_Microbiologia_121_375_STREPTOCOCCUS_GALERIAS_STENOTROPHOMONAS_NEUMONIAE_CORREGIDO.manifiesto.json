@@ -1,0 +1,43 @@
+{
+  "archivo_base": "LABVISION_Atlas_Microbiologia_121_375_STREPTOCOCCUS_GALERIAS_STENOTROPHOMONAS_CORREGIDO.html",
+  "archivo_salida": "LABVISION_Atlas_Microbiologia_121_375_STREPTOCOCCUS_GALERIAS_STENOTROPHOMONAS_NEUMONIAE_CORREGIDO.html",
+  "fecha_continuidad": "2026-10-25",
+  "ficha_modificada": {
+    "numero": 63,
+    "especie": "Streptococcus pneumoniae"
+  },
+  "fotos_integradas": [
+    {
+      "orden_usuario": 2,
+      "rol": "principal",
+      "descripcion": "Streptococcus pneumoniae — imagen principal"
+    },
+    {
+      "orden_usuario": 1,
+      "rol": "complementaria",
+      "rotulo": "Agar chocolate"
+    },
+    {
+      "orden_usuario": 3,
+      "rol": "complementaria",
+      "rotulo": "Agar sangre"
+    },
+    {
+      "orden_usuario": 4,
+      "rol": "complementaria",
+      "rotulo": "Agar sangre"
+    }
+  ],
+  "cambios_aplicados": [
+    "Integración de 4 fotografías en la ficha 63 (Streptococcus pneumoniae).",
+    "Fotografía 2 colocada como principal.",
+    "Galería compacta con miniaturas para las fotos 1, 3 y 4.",
+    "Rótulos aplicados conforme a la indicación de la usuaria: agar chocolate, agar sangre y agar sangre."
+  ],
+  "estado_acumulativo": {
+    "fichas": 121,
+    "imagenes_incrustadas": 379,
+    "ids_duplicados": 0
+  },
+  "ids_duplicados_listado": []
+}
